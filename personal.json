@@ -1,1 +1,26 @@
-hie
+{
+  "client":[
+    {
+      "name":"홍길동",
+      "height":null,
+      "weight":null,
+      "lungcancel":null,
+      "diagnostic":null,
+      "radiation":null,
+      "surgeryDay":null,
+      "surgeryHos":null,
+      "underlying":null
+    },
+    {
+      "name":"김미자",
+      "height":null,
+      "weight":null,
+      "lungcancel":null,
+      "diagnostic":null,
+      "radiation":null,
+      "surgeryDay":null,
+      "surgeryHos":null,
+      "underlying":null
+    }
+  ]
+}

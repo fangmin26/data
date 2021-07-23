@@ -2,25 +2,25 @@
   "client":[
     {
       "name":"홍길동",
-      "height":null,
-      "weight":null,
-      "lungcancel":null,
-      "diagnostic":null,
-      "radiation":null,
-      "surgeryDay":null,
-      "surgeryHos":null,
-      "underlying":null
+      "height":"",
+      "weight":"",
+      "lungcancel":"",
+      "diagnostic":"",
+      "radiation":"",
+      "surgeryDay":"",
+      "surgeryHos":"",
+      "underlying":""
     },
     {
       "name":"김미자",
-      "height":null,
-      "weight":null,
-      "lungcancel":null,
-      "diagnostic":null,
-      "radiation":null,
-      "surgeryDay":null,
-      "surgeryHos":null,
-      "underlying":null
+      "height":"",
+      "weight":"",
+      "lungcancel":"",
+      "diagnostic":"",
+      "radiation":"",
+      "surgeryDay":"",
+      "surgeryHos":"",
+      "underlying":""
     }
   ],
   "cancel":"hi!"
